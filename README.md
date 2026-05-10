@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👨‍💻 MiniKlar</h1>
   <p><em>École 42 Student | Software/Back-end Developer</em></p>
-  <h2>At 42, I’ve decided to learn coding and pursue a new path as a back-end developer!</h2>
+  <h2>At 42, I’ve decided to learn coding and pursue a new path as a Cloud/On-premises System & Network Administrator!</h2>
   
   [![lomont's 42 stats](https://badge.mediaplus.ma/starryblue/lomont?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 </div>
