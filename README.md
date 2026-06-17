@@ -116,9 +116,9 @@ Here you'll find my journey through the 42 curriculum:
     <tr>
       <td align="center">
         <a href="https://github.com/MiniKlar/Cube3D">
-          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dn.png" alt="cub3d repo">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3de.png" alt="cub3d repo">
         </a><br>
-        cub3D - 🔄 In progress
+        cub3D ✅
       </td>
       <td align="center">
         <a href="https://github.com/MiniKlar/webserv">
@@ -228,6 +228,15 @@ Here you'll find my journey through the 42 curriculum:
         </a><br>
         libasm — x86-64 Assembly 🔄
       </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/MiniKlar/AutomaticDirectory">
+          <img src="https://img.shields.io/badge/AutomaticDirectory-Done-0078D6?style=for-the-badge&logo=powershell&logoColor=white" alt="AutomaticDirectory repo">
+        </a><br>
+        AutomaticDirectory — Windows Server / AD ✅
+      </td>
+      <td align="center"></td>
     </tr>
   </tbody>
 </table>
