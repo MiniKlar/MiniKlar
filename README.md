@@ -102,18 +102,94 @@ Here you'll find my journey through the 42 curriculum:
     <tr>
       <td align="center">
         <a href="https://github.com/MiniKlar/CPP-Module-00">
-          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" alt="Cpp00 repo">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/numbered_cpps/CPP00.png" alt="Cpp00 repo">
         </a><br>
         CPP 00 - 100/100 ✅
       </td>
       <td align="center">
         <a href="https://github.com/MiniKlar/CPP-Module-01">
-          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png" alt="Cpp01 repo">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/numbered_cpps/CPP01.png" alt="Cpp01 repo">
         </a><br>
         CPP 01 - 100/100 ✅ ✨
       </td>
     </tr>
     <tr>
+      <td align="center">
+        <a href="https://github.com/MiniKlar/Cube3D">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/cub3dn.png" alt="cub3d repo">
+        </a><br>
+        cub3D - 🔄 In progress
+      </td>
+      <td align="center">
+        <a href="https://github.com/MiniKlar/webserv">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/webserve.png" alt="webserv repo">
+        </a><br>
+        webserv ✅
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/MiniKlar/Inception">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/inceptione.png" alt="Inception repo">
+        </a><br>
+        Inception ✅
+      </td>
+      <td align="center">
+        <a href="https://github.com/MiniKlar/CPP-Module-02">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/numbered_cpps/CPP02.png" alt="Cpp02 repo">
+        </a><br>
+        CPP 02 ✅
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/MiniKlar/CPP-Module-03">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/numbered_cpps/CPP03.png" alt="Cpp03 repo">
+        </a><br>
+        CPP 03 ✅
+      </td>
+      <td align="center">
+        <a href="https://github.com/MiniKlar/CPP-Module-04">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/numbered_cpps/CPP04.png" alt="Cpp04 repo">
+        </a><br>
+        CPP 04 ✅
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/MiniKlar/CPP-Module-05">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/numbered_cpps/CPP05.png" alt="Cpp05 repo">
+        </a><br>
+        CPP 05 ✅
+      </td>
+      <td align="center">
+        <a href="https://github.com/MiniKlar/CPP-Module-06">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/numbered_cpps/CPP06.png" alt="Cpp06 repo">
+        </a><br>
+        CPP 06 ✅
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/MiniKlar/CPP-Module-07">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/numbered_cpps/CPP07.png" alt="Cpp07 repo">
+        </a><br>
+        CPP 07 ✅
+      </td>
+      <td align="center">
+        <a href="https://github.com/MiniKlar/CPP-Module-08">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/numbered_cpps/CPP08.png" alt="Cpp08 repo">
+        </a><br>
+        CPP 08 ✅
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/MiniKlar/CPP-Module-09">
+          <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/numbered_cpps/CPP09.png" alt="Cpp09 repo">
+        </a><br>
+        CPP 09 ✅
+      </td>
       <td align="center">
         <a href="https://github.com/MiniKlar/ft_transcendence">
           <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/ft_transcendencem.png" alt="Transcendance organization">
@@ -127,7 +203,36 @@ Here you'll find my journey through the 42 curriculum:
 </div>
 
 ### Specialization
-- 🔄 *Projects coming soon...*
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">
+        <h2>42 Specialization 🎯</h2>
+        <h4><i>Cloud / System &amp; Network Administration branch</i></h4>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/MiniKlar/IoT-project-lomont">
+          <img src="https://img.shields.io/badge/Inception--of--Things-Done-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Inception-of-Things repo">
+        </a><br>
+        Inception-of-Things — P3 GitOps app ✅
+      </td>
+      <td align="center">
+        <a href="https://github.com/MiniKlar/libasm">
+          <img src="https://img.shields.io/badge/libasm-In%20Progress-6E4AFF?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="libasm repo">
+        </a><br>
+        libasm — x86-64 Assembly 🔄
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ## 🛠️ Tech Stack
 
